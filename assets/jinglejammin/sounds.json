@@ -1,0 +1,17 @@
+{
+	"music_disc.carolofbells":{
+		"sounds":[
+			"jinglejammin:music_disc/carolofbells"
+		]
+	},
+	"music_disc.frostysnowman":{
+		"sounds":[
+			"jinglejammin:music_disc/frostysnowman"
+		]
+	},
+	"music_disc.gmarunover":{
+		"sounds":[
+			"jinglejammin:music_disc/gmarunover"
+		]
+	}
+}

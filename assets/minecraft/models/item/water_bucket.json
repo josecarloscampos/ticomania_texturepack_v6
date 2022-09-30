@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/water_bucket"},"overrides":[{"predicate":{"custom_model_data":200000},"model":"iasurvival:auto_generated/boiled_water_bucket"},{"predicate":{"custom_model_data":200001},"model":"minecraft:item/water_bucket"}]}

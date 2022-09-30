@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/template_bed","textures":{"particle":"minecraft:block/black_wool"},"overrides":[{"predicate":{"custom_model_data":200000},"model":"jinglejammin:item/oldsled"},{"predicate":{"custom_model_data":200001},"model":"jinglejammin:item/red_wagon"},{"predicate":{"custom_model_data":200002},"model":"minecraft:item/black_bed"}]}

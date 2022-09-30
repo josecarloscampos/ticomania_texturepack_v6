@@ -1,0 +1,36 @@
+{
+    "parent": "moshields:velocigamerbr/gilded_ender_shield",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, -20, 0],
+			"translation": [1, -2, -1.5],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, -20, 0],
+			"translation": [1, -2, -1.5],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"firstperson_righthand": {
+			"rotation": [10, 0, 15],
+			"translation": [-4, 0.5, 0.5],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"firstperson_lefthand": {
+			"rotation": [10, 0, 15],
+			"translation": [-2.5, 1, 0.5],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [1, 0, 0]
+		},
+		"fixed": {
+			"translation": [-1, 0, 0]
+		}
+	}
+}

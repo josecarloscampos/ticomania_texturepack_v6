@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/red_stained_glass","overrides":[{"predicate":{"custom_model_data":31173},"model":"ui/redcrown"},{"predicate":{"custom_model_data":200000},"model":"ticomania:item/tanning_chair"},{"predicate":{"custom_model_data":200001},"model":"minecraft:item/red_stained_glass"}]}

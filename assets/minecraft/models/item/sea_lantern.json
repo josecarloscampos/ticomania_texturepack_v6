@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/sea_lantern","overrides":[{"predicate":{"custom_model_data":200000},"model":"ticomania:item/ceilinglamp"},{"predicate":{"custom_model_data":200001},"model":"minecraft:item/sea_lantern"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_pickaxe"},"overrides":[{"predicate":{"custom_model_data":200000},"model":"itembound:auto_generated/drillgold"},{"predicate":{"custom_model_data":200001},"model":"minecraft:item/golden_pickaxe"}]}
